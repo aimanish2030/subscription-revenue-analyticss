@@ -1,21 +1,31 @@
 # Subscription Revenue Forecasting & Growth Analytics
 
-Simple Python project for analyzing subscription-based business metrics.
+This is a simple Python-based project that analyzes subscription-based business metrics
+and visualizes data using charts.
+
+## Project Objective
+To analyze revenue, growth, churn, and subscriber distribution for a subscription-based business
+and perform simple revenue forecasting.
 
 ## Metrics Covered
 - Monthly Recurring Revenue (MRR)
 - Annual Recurring Revenue (ARR)
 - Active Subscribers
+- Total Subscribers
 - Customer Churn Rate
-- ARPU
-- Revenue Forecasting
+- Average Revenue Per User (ARPU)
+- Forecasted Monthly Revenue
 
-## Tools Used
+## Data Visualization
+- Plan-wise Active Subscribers Bar Chart using Matplotlib
+
+## Tools & Technologies Used
 - Python
 - Pandas
+- Matplotlib
 
-## How to Run
-python subscription_analysis.py
+## How to Run the Project
+1. Install required libraries:
 
 ## Author
 Manish Kumar
